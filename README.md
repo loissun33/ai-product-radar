@@ -59,28 +59,25 @@ ai-product-radar/
 
 ---
 
-## 📬 Stay Connected
+## 🚀 加入 EPIC 华人之光 · Global Founder Program
 
-| Channel | Link |
-|---------|------|
-| 🌐 Website | [evol.epicconnector.ai](https://evol.epicconnector.ai/) |
-| 📧 Email | lois.sun@epicconnector.ai |
-| 💬 WeChat | yilusun33 |
-| ⭐ Star this repo | to get daily updates in your GitHub feed |
-
----
-
-## 🚀 EPIC Founder Program
-
-Are you building the next notable product on Product Hunt or GitHub?
+**你正在 Product Hunt 或 GitHub 创造下一个值得关注的产品吗？**
 
 **Join the EPIC 华人之光 Global Founder Program** — connecting Chinese builders with the global AI ecosystem.
 
 > *让好产品，被世界看见。*
 > *Let great products be seen by the world.*
 
-📧 lois.sun@epicconnector.ai · 💬 WeChat: yilusun33
+| | |
+|---|---|
+| 🌐 Website | [evol.epicconnector.ai](https://evol.epicconnector.ai/) |
+| 💼 LinkedIn | [Lois Sun](https://www.linkedin.com/in/luyisun/) |
+| 𝕏 X | [@luyisun_](https://x.com/luyisun_) |
+| 🐱 Product Hunt | [@luyisun_](https://www.producthunt.com/@luyisun_) |
+| 📧 Email | lois.sun@epicconnector.ai |
+| 💬 WeChat | yilusun33 |
+| ⭐ Star this repo | to get daily updates in your GitHub feed |
 
 ---
 
-*Reports generated daily by EPIC Growth Agent · Data sourced from Product Hunt real-time leaderboard · All analysis is original; facts and inferences are clearly separated.*
+*Data sourced from Product Hunt real-time leaderboard · All analysis is original; facts and inferences are clearly separated.*
