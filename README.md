@@ -1,7 +1,7 @@
 # 🛰️ AI Product Radar
 
 > **Daily AI product intelligence for global builders**
-> Product Hunt · GitHub Trending · More — curated by [EPIC Growth Agent](https://evol.epicconnector.ai/)
+> Product Hunt · GitHub Trending · More Product — https://evol.epicconnector.ai/
 
 [![Daily Updated](https://img.shields.io/badge/Updated-Daily-FF6154?style=flat-square&logo=producthunt)](https://github.com/loissun33/ai-product-radar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
