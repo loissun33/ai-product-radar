@@ -1,7 +1,7 @@
 # 🛰️ AI Product Radar
 
 > **Daily AI product intelligence for global builders**
-> Product Hunt · GitHub Trending · More Product — https://evol.epicconnector.ai/
+> Product Hunt · GitHub Trending · More — https://evol.epicconnector.ai/
 
 [![Daily Updated](https://img.shields.io/badge/Updated-Daily-FF6154?style=flat-square&logo=producthunt)](https://github.com/loissun33/ai-product-radar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
@@ -11,9 +11,7 @@
 
 ## 📡 What is this?
 
-**AI Product Radar** is a daily-updated knowledge base tracking the most notable AI products and projects across global platforms. Every report is researched, analyzed, and written by **EPIC Growth Agent** — an AI-powered intelligence system built for founders and builders who need to stay ahead.
-
-Each entry goes beyond a link list: you get positioning analysis, community signal breakdown, risk assessment, and trend synthesis — in both English and Chinese (中英双语).
+**AI Product Radar** is a daily-updated knowledge base tracking the most notable AI products across global platforms. Each report goes beyond a link list — you get positioning analysis, community signal breakdown, risk assessment, and trend synthesis, all in English.
 
 **Who is this for?**
 - 🌏 Global AI founders and indie hackers
@@ -31,7 +29,8 @@ ai-product-radar/
 ├── producthunt/              # Product Hunt daily leaderboard analysis
 │   └── 2026/
 │       └── 08/
-│           └── 2026-08-17.md
+│           ├── 2026-08-17.md
+│           └── 2026-08-18.md
 │
 ├── github-trending/          # GitHub Trending analysis (coming soon)
 │   └── 2026/
@@ -47,27 +46,24 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
-| 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR 实时将网站访客转化为销售会议，无需填表 | 406 pts |
+| 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR converting website visitors into booked sales meetings | 406 pts |
 | 2026-08-17 | [→ View](producthunt/2026/08/2026-08-17.md) | Meridian — Local AI work journal | 333 pts |
 
 ---
 
 ## 🔍 Trend Highlights (Aug 2026)
 
-- **AI is moving from point tools → full-stack execution layers** — the top products of the week all tackle different stages of the AI-powered dev lifecycle
-- **Open Source + YC = PH high-score formula** — but monetization remains the missing piece
-- **Follower count ≠ launch resonance** — comment density is the real signal
+- **AI inbound sales automation is commercially real** — AI SDRs are moving from demo to deployment; B2B inbound conversion is the new battleground
+- **MCP is becoming the universal connector** — voice, code, and data tools are plugging into LLM interfaces via MCP; connectivity beats raw model capability
+- **Comment count > vote count as PMF signal** — high comment density signals real community interest; high vote counts can reflect launch coordination
 
 ---
 
-## 🚀 加入 EPIC 华人之光 · Global Founder Program
+## 🚀 Join EPIC · Global Founder Program
 
-**你正在 Product Hunt 或 GitHub 创造下一个值得关注的产品吗？**
+**Are you building the next product worth watching on Product Hunt or GitHub?**
 
-**Join the EPIC 华人之光 Global Founder Program** — connecting Chinese builders with the global AI ecosystem.
-
-> *让好产品，被世界看见。*
-> *Let great products be seen by the world.*
+**Join the EPIC Global Founder Program** — helping great products get seen by the world.
 
 | | |
 |---|---|
