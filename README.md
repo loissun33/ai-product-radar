@@ -47,7 +47,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
-| 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR 实时将网站访客转化为合格销售线索 | 401 pts |
+| 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR 实时将网站访客转化为销售会议，无需填表 | 406 pts |
 | 2026-08-17 | [→ View](producthunt/2026/08/2026-08-17.md) | Meridian — Local AI work journal | 333 pts |
 
 ---
