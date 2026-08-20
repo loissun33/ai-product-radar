@@ -30,7 +30,8 @@ ai-product-radar/
 │   └── 2026/
 │       └── 08/
 │           ├── 2026-08-17.md
-│           └── 2026-08-18.md
+│           ├── 2026-08-18.md
+│           └── 2026-08-19.md
 │
 ├── github-trending/          # GitHub Trending analysis (coming soon)
 │   └── 2026/
@@ -46,6 +47,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-19 | [→ View](producthunt/2026/08/2026-08-19.md) | Astute — AI platform automating B2B brand growth through new media creator partnerships | 487 pts |
 | 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR converting website visitors into booked sales meetings | 406 pts |
 | 2026-08-17 | [→ View](producthunt/2026/08/2026-08-17.md) | Meridian — Local AI work journal | 333 pts |
 
