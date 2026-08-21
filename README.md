@@ -31,7 +31,8 @@ ai-product-radar/
 │       └── 08/
 │           ├── 2026-08-17.md
 │           ├── 2026-08-18.md
-│           └── 2026-08-19.md
+│           ├── 2026-08-19.md
+│           └── 2026-08-20.md
 │
 ├── github-trending/          # GitHub Trending daily analysis
 │   └── 2026/
@@ -49,6 +50,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-20 | [→ View](producthunt/2026/08/2026-08-20.md) | HyNote for Mac — 100% private on-device AI transcription for Mac professionals | 352 pts |
 | 2026-08-19 | [→ View](producthunt/2026/08/2026-08-19.md) | Astute — AI platform automating B2B brand growth through new media creator partnerships | 487 pts |
 | 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR converting website visitors into booked sales meetings | 406 pts |
 | 2026-08-17 | [→ View](producthunt/2026/08/2026-08-17.md) | Meridian — Local AI work journal | 333 pts |
