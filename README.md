@@ -33,8 +33,10 @@ ai-product-radar/
 │           ├── 2026-08-18.md
 │           └── 2026-08-19.md
 │
-├── github-trending/          # GitHub Trending analysis (coming soon)
+├── github-trending/          # GitHub Trending daily analysis
 │   └── 2026/
+│       └── 08/
+│           └── 2026-08-20.md
 │
 └── assets/                   # Images and resources
 ```
@@ -43,7 +45,7 @@ ai-product-radar/
 
 ## 🗓️ Latest Reports
 
-### Product Hunt
+### 🐱 Product Hunt
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
@@ -51,13 +53,20 @@ ai-product-radar/
 | 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR converting website visitors into booked sales meetings | 406 pts |
 | 2026-08-17 | [→ View](producthunt/2026/08/2026-08-17.md) | Meridian — Local AI work journal | 333 pts |
 
+### 📈 GitHub Trending
+
+| Date | Report | Top Repo | Stars Today |
+|------|--------|----------|-------------|
+| 2026-08-20 | [→ View](github-trending/2026/08/2026-08-20.md) | harry0703/MoneyPrinterTurbo — AI short video generation pipeline | +2,200 ⭐ |
+
 ---
 
 ## 🔍 Trend Highlights (Aug 2026)
 
 - **AI inbound sales automation is commercially real** — AI SDRs are moving from demo to deployment; B2B inbound conversion is the new battleground
 - **MCP is becoming the universal connector** — voice, code, and data tools are plugging into LLM interfaces via MCP; connectivity beats raw model capability
-- **Comment count > vote count as PMF signal** — high comment density signals real community interest; high vote counts can reflect launch coordination
+- **Rust dominates new infra** — 4 of the top 10 GitHub Trending repos (Aug 20) are Rust-based; it's now a baseline expectation in performance-critical roles
+- **Agent skill libraries are forming network effects** — specialized vertical skill packs (security, engineering workflow) are growing faster than general frameworks
 
 ---
 
@@ -79,4 +88,4 @@ ai-product-radar/
 
 ---
 
-*Data sourced from Product Hunt real-time leaderboard · All analysis is original; facts and inferences are clearly separated.*
+*Data sourced from Product Hunt real-time leaderboard and GitHub Trending · All analysis is original; facts and inferences are clearly separated.*
