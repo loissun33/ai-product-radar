@@ -52,6 +52,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-21 | [→ View](producthunt/2026/08/2026-08-21.md) | Wizstar — AI digital avatars that move and act like professional actors | 315 pts |
 | 2026-08-20 | [→ View](producthunt/2026/08/2026-08-20.md) | HyNote for Mac — 100% private on-device AI transcription for Mac professionals | 352 pts |
 | 2026-08-19 | [→ View](producthunt/2026/08/2026-08-19.md) | Astute — AI platform automating B2B brand growth through new media creator partnerships | 487 pts |
 | 2026-08-18 | [→ View](producthunt/2026/08/2026-08-18.md) | Clara AI SDR — AI SDR converting website visitors into booked sales meetings | 406 pts |
