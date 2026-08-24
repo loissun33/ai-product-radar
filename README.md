@@ -34,7 +34,8 @@ ai-product-radar/
 │           ├── 2026-08-19.md
 │           ├── 2026-08-20.md
 │           ├── 2026-08-21.md
-│           └── 2026-08-22.md
+│           ├── 2026-08-22.md
+│           └── 2026-08-23.md
 │
 ├── github-trending/          # GitHub Trending daily analysis
 │   └── 2026/
@@ -53,6 +54,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-23 | [→ View](producthunt/2026/08/2026-08-23.md) | Construct Computer — AI-employee runtime where MCPs install like apps and agents build the tools they need | 320 pts |
 | 2026-08-22 | [→ View](producthunt/2026/08/2026-08-22.md) | Toplify — Real-time App Store ranking tracker for indie devs across 175 countries | 314 pts |
 | 2026-08-21 | [→ View](producthunt/2026/08/2026-08-21.md) | Wizstar — AI digital avatars that move and act like professional actors | 315 pts |
 | 2026-08-20 | [→ View](producthunt/2026/08/2026-08-20.md) | HyNote for Mac — 100% private on-device AI transcription for Mac professionals | 352 pts |
