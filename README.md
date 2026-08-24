@@ -64,6 +64,7 @@ ai-product-radar/
 
 | Date | Report | Top Repo | Stars Today |
 |------|--------|----------|-------------|
+| 2026-08-23 | [→ View](github-trending/2026/08/2026-08-23.md) | deepseek-ai/deepseek-harness — "Everything is a Plugin" agent harness framework | +79 ⭐ |
 | 2026-08-22 | [→ View](github-trending/2026/08/2026-08-22.md) | mattpocock/skills — Skills for Real Engineers from .agents directory | +3,362 ⭐ |
 | 2026-08-21 | [→ View](github-trending/2026/08/2026-08-21.md) | openai/codex — Lightweight coding agent that runs in your terminal | +未获取 ⭐ |
 | 2026-08-20 | [→ View](github-trending/2026/08/2026-08-20.md) | harry0703/MoneyPrinterTurbo — AI short video generation pipeline | +2,200 ⭐ |
