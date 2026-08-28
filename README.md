@@ -48,7 +48,8 @@ ai-product-radar/
 │           ├── 2026-08-22.md
 │           ├── 2026-08-23.md
 │           ├── 2026-08-24.md
-│           └── 2026-08-25.md
+│           ├── 2026-08-25.md
+│           └── 2026-08-27.md
 │
 └── assets/                   # Images and resources
 ```
@@ -76,6 +77,7 @@ ai-product-radar/
 
 | Date | Report | Top Repo | Stars Today |
 |------|--------|----------|-------------|
+| 2026-08-27 | [→ View](github-trending/2026/08/2026-08-27.md) | deepseek-ai/deepseek-harness — "Everything is a Plugin" agent framework | +27k ⭐ |
 | 2026-08-25 | [→ View](github-trending/2026/08/2026-08-25.md) | bilawalsidhu/gods-eye-view — Real-time global intelligence on a photorealistic 3D globe | +158 ⭐ |
 | 2026-08-24 | [→ View](github-trending/2026/08/2026-08-24.md) | openai/codex — Lightweight coding agent that runs in your terminal | ~+88 ⭐ |
 | 2026-08-23 | [→ View](github-trending/2026/08/2026-08-23.md) | deepseek-ai/deepseek-harness — "Everything is a Plugin" agent harness framework | +79 ⭐ |
