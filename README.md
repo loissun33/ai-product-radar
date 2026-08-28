@@ -38,7 +38,8 @@ ai-product-radar/
 │           ├── 2026-08-23.md
 │           ├── 2026-08-24.md
 │           ├── 2026-08-25.md
-│           └── 2026-08-26.md
+│           ├── 2026-08-26.md
+│           └── 2026-08-27.md
 │
 ├── github-trending/          # GitHub Trending daily analysis
 │   └── 2026/
@@ -62,6 +63,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-27 | [→ View](producthunt/2026/08/2026-08-27.md) | Ojin — Real-time AI agent with a face and voice — one photo, zero rigging | 105 pts |
 | 2026-08-26 | [→ View](producthunt/2026/08/2026-08-26.md) | Termy — Learn languages from games, videos, and websites | 110 pts |
 | 2026-08-25 | [→ View](producthunt/2026/08/2026-08-25.md) | akta.pro — Private company intelligence API delivering 20M+ companies with 70+ data fields for AI agents and GTM teams | 401 pts |
 | 2026-08-24 | [→ View](producthunt/2026/08/2026-08-24.md) | PaymentKit — Multi-processor billing platform that keeps subscriptions running even when your payment processor shuts down | 428 pts |
