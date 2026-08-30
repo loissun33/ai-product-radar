@@ -40,7 +40,8 @@ ai-product-radar/
 │           ├── 2026-08-25.md
 │           ├── 2026-08-26.md
 │           ├── 2026-08-27.md
-│           └── 2026-08-28.md
+│           ├── 2026-08-28.md
+│           └── 2026-08-29.md
 │
 ├── github-trending/          # GitHub Trending daily analysis
 │   └── 2026/
@@ -65,6 +66,7 @@ ai-product-radar/
 
 | Date | Report | Top Product | Score |
 |------|--------|-------------|-------|
+| 2026-08-29 | [→ View](producthunt/2026/08/2026-08-29.md) | 1752vc Pitch Deck Analyzer — AI pitch deck feedback trained on 25,000+ real decks, free, 60-second results | 95 pts |
 | 2026-08-28 | [→ View](producthunt/2026/08/2026-08-28.md) | Spline V2 — Best 3D platform for the agentic era — AI Agent Mode, WebGPU, MCP | 112 pts |
 | 2026-08-27 | [→ View](producthunt/2026/08/2026-08-27.md) | Ojin — Real-time AI agent with a face and voice — one photo, zero rigging | 105 pts |
 | 2026-08-26 | [→ View](producthunt/2026/08/2026-08-26.md) | Termy — Learn languages from games, videos, and websites | 110 pts |
