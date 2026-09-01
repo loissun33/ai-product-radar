@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-08-31 | [→ View](producthunt/2026/08/2026-08-31.md) | Video Agent by Fotor — Chat-driven AI video creation with motion graphics | 361 pts |
 | 2026-08-30 | [→ View](producthunt/2026/08/2026-08-30.md) | Topview Motion Studio — AI launch video generator without After Effects | 303 pts |
 | 2026-08-29 | [→ View](producthunt/2026/08/2026-08-29.md) | 1752vc Pitch Deck Analyzer — AI pitch feedback trained on 25,000+ real decks | 95 pts |
 | 2026-08-28 | [→ View](producthunt/2026/08/2026-08-28.md) | — | — |
@@ -50,7 +51,8 @@ ai-product-radar/
 │           ├── 2026-08-27.md
 │           ├── 2026-08-28.md
 │           ├── 2026-08-29.md
-│           └── 2026-08-30.md   ← 新增
+│           ├── 2026-08-30.md
+│           └── 2026-08-31.md   ← 新增
 └── github-trending/
     └── 2026/
         └── 08/
