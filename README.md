@@ -26,6 +26,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-01 | [→ View](github-trending/2026/09/2026-09-01.md) | codecrafters-io/build-your-own-x — Master programming by recreating your favorite technologies from scratch | +N/A ⭐ |
 | 2026-08-31 | [→ View](github-trending/2026/08/2026-08-31.md) | sapientinc/PRAXIST — Autonomous R&D system with durable evidence protocols | +647 ⭐ |
 | 2026-08-30 | [github-trending/2026/08/2026-08-30.md](github-trending/2026/08/2026-08-30.md) | — | — |
 
@@ -55,9 +56,11 @@ ai-product-radar/
 │           └── 2026-08-31.md   ← 新增
 └── github-trending/
     └── 2026/
-        └── 08/
-            ├── 2026-08-30.md
-            └── 2026-08-31.md
+        ├── 08/
+        │   ├── 2026-08-30.md
+        │   └── 2026-08-31.md
+        └── 09/
+            └── 2026-09-01.md   ← 新增
 ```
 
 ---
