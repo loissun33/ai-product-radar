@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-02 | [→ View](producthunt/2026/09/2026-09-02.md) | Monid — OpenRouter for AI agent tools — 1,800+ APIs via one key | 419 pts |
 | 2026-09-01 | [→ View](producthunt/2026/09/2026-09-01.md) | Kilo Code for JetBrains — Fully native open-source AI coding agent for JetBrains IDEs | 475 pts |
 | 2026-08-31 | [→ View](producthunt/2026/08/2026-08-31.md) | Video Agent by Fotor — Chat-driven AI video creation with motion graphics | 361 pts |
 | 2026-08-30 | [→ View](producthunt/2026/08/2026-08-30.md) | Topview Motion Studio — AI launch video generator without After Effects | 303 pts |
@@ -57,7 +58,8 @@ ai-product-radar/
 │       │   ├── 2026-08-30.md
 │       │   └── 2026-08-31.md
 │       └── 09/
-│           └── 2026-09-01.md   ← 新增
+│           ├── 2026-09-01.md
+│           └── 2026-09-02.md   ← 新增
 └── github-trending/
     └── 2026/
         ├── 08/
