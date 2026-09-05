@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-04 | [→ View](producthunt/2026/09/2026-09-04.md) | GPT-6 Astra — OpenAI's most capable model for end-to-end work | 826 pts |
 | 2026-09-03 | [→ View](producthunt/2026/09/2026-09-03.md) | Agent Builder by Airtop (#2) — Build agents that heal themselves | 322 pts |
 | 2026-09-02 | [→ View](producthunt/2026/09/2026-09-02.md) | Monid — OpenRouter for AI agent tools — 1,800+ APIs via one key | 419 pts |
 | 2026-09-01 | [→ View](producthunt/2026/09/2026-09-01.md) | Kilo Code for JetBrains — Fully native open-source AI coding agent for JetBrains IDEs | 475 pts |
@@ -63,7 +64,8 @@ ai-product-radar/
 │       └── 09/
 │           ├── 2026-09-01.md
 │           ├── 2026-09-02.md
-│           └── 2026-09-03.md   ← 新增
+│           ├── 2026-09-03.md
+│           └── 2026-09-04.md   ← 新增
 └── github-trending/
     └── 2026/
         ├── 08/
