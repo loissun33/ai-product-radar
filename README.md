@@ -31,6 +31,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-06 | [→ View](github-trending/2026/09/2026-09-06.md) | affaan-m/ECC — Cross-platform agent harness for Claude Code, Codex, Cursor & OpenCode | +snapshot/provisional ⭐ |
 | 2026-09-05 | [→ View](github-trending/2026/09/2026-09-05.md) | mattpocock/skills — Skills for Real Engineers, straight from .agents directory | +2,692 ⭐ |
 | 2026-09-04 | [→ View](github-trending/2026/09/2026-09-04.md) | fmtlib/fmt — A modern C++ formatting library powering std::format | +snapshot/provisional ⭐ |
 | 2026-09-03 | [→ View](github-trending/2026/09/2026-09-03.md) | tt-a1i/archify — Agent skill for beautiful, verifiable architecture diagrams | +~22k ⭐ |
@@ -79,7 +80,8 @@ ai-product-radar/
             ├── 2026-09-02.md
             ├── 2026-09-03.md
             ├── 2026-09-04.md
-            └── 2026-09-05.md   ← 新增
+            ├── 2026-09-05.md
+            └── 2026-09-06.md   ← 新增
 ```
 
 ---
