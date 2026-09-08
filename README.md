@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-07 | [→ View](producthunt/2026/09/2026-09-07.md) | PR Lens by Coldtea.ai — Animated architecture & data-flow diagrams for every PR | 273 pts |
 | 2026-09-06 | [→ View](producthunt/2026/09/2026-09-06.md) | AI Toolbox 3.0 — Search, organize and export every AI chat in one place | 322 pts |
 | 2026-09-05 | [→ View](producthunt/2026/09/2026-09-05.md) | dif.sh — Markdown feature flags your coding agent installs for you | 303 pts |
 | 2026-09-04 | [→ View](producthunt/2026/09/2026-09-04.md) | GPT-6 Astra — OpenAI's most capable model for end-to-end work | 826 pts |
@@ -71,7 +72,8 @@ ai-product-radar/
 │           ├── 2026-09-03.md
 │           ├── 2026-09-04.md
 │           ├── 2026-09-05.md
-│           └── 2026-09-06.md   ← 新增
+│           ├── 2026-09-06.md
+│           └── 2026-09-07.md   ← 新增
 └── github-trending/
     └── 2026/
         ├── 08/
