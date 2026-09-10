@@ -34,6 +34,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-09 | [→ View](github-trending/2026/09/2026-09-09.md) | ayghri/i-have-adhd — ADHD-friendly output skill for ADHD-friendly AI coding | +4,700 ⭐ |
 | 2026-09-08 | [→ View](github-trending/2026/09/2026-09-08.md) | ayghri/i-have-adhd — ADHD-friendly output skill to stop your coding agent from burying the answer | +656 ⭐ |
 | 2026-09-06 | [→ View](github-trending/2026/09/2026-09-06.md) | affaan-m/ECC — Cross-platform agent harness for Claude Code, Codex, Cursor & OpenCode | +snapshot/provisional ⭐ |
 | 2026-09-05 | [→ View](github-trending/2026/09/2026-09-05.md) | mattpocock/skills — Skills for Real Engineers, straight from .agents directory | +2,692 ⭐ |
@@ -89,7 +90,8 @@ ai-product-radar/
             ├── 2026-09-04.md
             ├── 2026-09-05.md
             ├── 2026-09-06.md
-            └── 2026-09-08.md
+            ├── 2026-09-08.md
+            └── 2026-09-09.md
 ```
 
 ---
