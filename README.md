@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-11 | [→ View](producthunt/2026/09/2026-09-11.md) | Anysite.io — Web data infrastructure API for AI agents | 219 pts |
 | 2026-09-10 | [→ View](producthunt/2026/09/2026-09-10.md) | AI Observability by OpenObserve — Open-source LLM agent session tracing across models, tools, and datastores | 155 pts |
 | 2026-09-09 | [→ View](producthunt/2026/09/2026-09-09.md) | Mastra Factory — Agent-powered software delivery from issue to production | 452 pts |
 | 2026-09-08 | [→ View](producthunt/2026/09/2026-09-08.md) | Switch — Open-source bridge to bring any AI agent into Slack, Teams & Discord | 255 pts |
@@ -83,7 +84,8 @@ ai-product-radar/
 │           ├── 2026-09-07.md
 │           ├── 2026-09-08.md
 │           ├── 2026-09-09.md
-│           └── 2026-09-10.md
+│           ├── 2026-09-10.md
+│           └── 2026-09-11.md
 └── github-trending/
     └── 2026/
         ├── 08/
