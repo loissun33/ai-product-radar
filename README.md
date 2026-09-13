@@ -37,6 +37,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-12 | [→ View](github-trending/2026/09/2026-09-12.md) | ayghri/i-have-adhd — ADHD-friendly Claude Code skill to stop agents burying the answer | +3,440 ⭐ |
 | 2026-09-11 | [→ View](github-trending/2026/09/2026-09-11.md) | iamzulx/crypto-rag — Indonesian-language crypto RAG assistant with 6-exchange live WebSocket feeds | +275 ⭐ |
 | 2026-09-10 | [→ View](github-trending/2026/09/2026-09-10.md) | ayghri/i-have-adhd — ADHD-friendly AI coding output skill, Day-2 viral momentum | +snapshot/provisional ⭐ |
 | 2026-09-09 | [→ View](github-trending/2026/09/2026-09-09.md) | ayghri/i-have-adhd — ADHD-friendly output skill for ADHD-friendly AI coding | +4,700 ⭐ |
@@ -101,7 +102,8 @@ ai-product-radar/
             ├── 2026-09-08.md
             ├── 2026-09-09.md
             ├── 2026-09-10.md
-            └── 2026-09-11.md
+            ├── 2026-09-11.md
+            └── 2026-09-12.md
 ```
 
 ---
