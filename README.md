@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-13 | [→ View](producthunt/2026/09/2026-09-13.md) | Perplexity Hybrid Compute 1 — Privacy-first hybrid AI that routes sensitive tasks local | 133 pts |
 | 2026-09-12 | [→ View](producthunt/2026/09/2026-09-12.md) | Cortex — Open-source API → docs, SDKs, and MCP servers in one tool | 258 pts |
 | 2026-09-11 | [→ View](producthunt/2026/09/2026-09-11.md) | Anysite.io — Web data infrastructure API for AI agents | 219 pts |
 | 2026-09-10 | [→ View](producthunt/2026/09/2026-09-10.md) | AI Observability by OpenObserve — Open-source LLM agent session tracing across models, tools, and datastores | 155 pts |
@@ -89,7 +90,8 @@ ai-product-radar/
 │           ├── 2026-09-09.md
 │           ├── 2026-09-10.md
 │           ├── 2026-09-11.md
-│           └── 2026-09-12.md
+│           ├── 2026-09-12.md
+│           └── 2026-09-13.md
 └── github-trending/
     └── 2026/
         ├── 08/
