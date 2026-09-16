@@ -40,6 +40,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-15 | [→ View](github-trending/2026/09/2026-09-15.md) | JustVugg/colibri — Run frontier MoE models on hardware you already own | +2,173 ⭐ |
 | 2026-09-14 | [→ View](github-trending/2026/09/2026-09-14.md) | calesthio/OpenMontage — World's first open-source agentic video production system | +349 ⭐ |
 | 2026-09-13 | [→ View](github-trending/2026/09/2026-09-13.md) | debpalash/VoiceStudio — Open-source fully-local ElevenLabs alternative, 646 languages | +53 ⭐ |
 | 2026-09-12 | [→ View](github-trending/2026/09/2026-09-12.md) | ayghri/i-have-adhd — ADHD-friendly Claude Code skill to stop agents burying the answer | +3,440 ⭐ |
