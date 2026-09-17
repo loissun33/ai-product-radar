@@ -122,3 +122,7 @@ ai-product-radar/
 
 出品：[EPIC华人之光](https://evol.epicconnector.ai/)  
 联系：lois.sun@epicconnector.ai
+
+
+## GitHub Trending 2026-09-16
+| 2026-09-16 | [→ View](github-trending/2026/09/2026-09-16.md) | hypit-ai/hypit — Clone any viral video with AI agents, 100 variants in one command | +2,228 ⭐ |
