@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-18 | [→ View](producthunt/2026/09/2026-09-18.md) | Ami AI — AI GTM agent that automates B2B outbound — builds lists, writes outreach, fixes stalls | 478 pts |
 | 2026-09-17 | [→ View](producthunt/2026/09/2026-09-17.md) | CREEM 2.0 — All-in-one Merchant of Record for AI-native SaaS, global payments + MCP integration | 488 pts |
 | 2026-09-16 | [→ View](producthunt/2026/09/2026-09-16.md) | Weave Router 2.0 — Subscription-aware AI coding agent router, GPT-6 perf at ~50% cost | 295 pts |
 | 2026-09-15 | [→ View](producthunt/2026/09/2026-09-15.md) | Kilo Code for iOS and Android — AI coding agents now on iPhone, iPad & Android | 273 pts |
@@ -102,7 +103,8 @@ ai-product-radar/
 │           ├── 2026-09-14.md
 │           ├── 2026-09-15.md
 │           ├── 2026-09-16.md
-│           └── 2026-09-17.md
+│           ├── 2026-09-17.md
+│           └── 2026-09-18.md
 └── github-trending/
     └── 2026/
         ├── 08/
