@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-21 | [→ View](producthunt/2026/09/2026-09-21.md) | Superset Mobile — iPhone app for monitoring and managing parallel coding agents in real time | 412 pts |
 | 2026-09-20 | [→ View](producthunt/2026/09/2026-09-20.md) | Mycel — AI delivery OS that learns your service style and drafts every future client deliverable | 264 pts |
 | 2026-09-19 | [→ View](producthunt/2026/09/2026-09-19.md) | Bolt Forge — bolt.new open-source AI coding agent with 50× usage via data sharing | 199 pts |
 | 2026-09-18 | [→ View](producthunt/2026/09/2026-09-18.md) | Ami AI — AI GTM agent that automates B2B outbound — builds lists, writes outreach, fixes stalls | 478 pts |
@@ -111,7 +112,8 @@ ai-product-radar/
 │           ├── 2026-09-17.md
 │           ├── 2026-09-18.md
 │           ├── 2026-09-19.md
-│           └── 2026-09-20.md
+│           ├── 2026-09-20.md
+│           └── 2026-09-21.md
 └── github-trending/
     └── 2026/
         ├── 08/
