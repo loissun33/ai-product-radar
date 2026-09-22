@@ -46,6 +46,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-21 | [→ View](github-trending/2026/09/2026-09-21.md) | cloudflare/security-audit-skill — AI Agent 安全审计技能，连续三日 Trending 首位 | +2,428 ⭐ |
 | 2026-09-20 | [→ View](github-trending/2026/09/2026-09-20.md) | cloudflare/security-audit-skill — Multi-phase AI security audit skill for coding agents with adversarial verification | +3,155 ⭐ |
 | 2026-09-19 | [→ View](github-trending/2026/09/2026-09-19.md) | cloudflare/security-audit-skill — Multi-phase AI security audit Skill with independent verification, CI/CD-ready output | +3,006 ⭐ |
 | 2026-09-18 | [→ View](github-trending/2026/09/2026-09-18.md) | cloudflare/security-audit-skill — Multi-phase security audit coding-agent skill with independent verification | +3,006 ⭐ |
