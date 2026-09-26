@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-25 | [→ View](producthunt/2026/09/2026-09-25.md) | PixVerse R2 — Real-time world model you can explore and change | 335 pts |
 | 2026-09-24 | [→ View](producthunt/2026/09/2026-09-24.md) | Scholé Learn by Building — AI-guided browser extension that teaches you by doing, not clicking next | 326 pts |
 | 2026-09-23 | [→ View](producthunt/2026/09/2026-09-23.md) | Solid — AI agents with real computers, accounts & budgets for fully autonomous long-running work | 404 pts |
 | 2026-09-22 | [→ View](producthunt/2026/09/2026-09-22.md) | Clueso MCP — MCP-native AI video creation: create and edit videos by chatting with Claude or ChatGPT | 426 pts |
@@ -122,7 +123,8 @@ ai-product-radar/
 │           ├── 2026-09-21.md
 │           ├── 2026-09-22.md
 │           ├── 2026-09-23.md
-│           └── 2026-09-24.md
+│           ├── 2026-09-24.md
+│           └── 2026-09-25.md
 └── github-trending/
     └── 2026/
         ├── 08/
