@@ -51,6 +51,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-26 | [→ View](github-trending/2026/09/2026-09-26.md) | paperclipai/paperclip — Open-source enterprise platform for managing AI agents at work | +2,109 ⭐ |
 | 2026-09-25 | [→ View](github-trending/2026/09/2026-09-25.md) | JustVugg/colibri — Run frontier MoE models on hardware you already own — pure C, zero deps | +snapshot/provisional ⭐ |
 | 2026-09-24 | [→ View](github-trending/2026/09/2026-09-24.md) | rohitg00/ai-engineering-from-scratch — 435+节AI工程课程，前10中9个是Agent基础设施 | +310 ⭐ |
 | 2026-09-23 | [→ View](github-trending/2026/09/2026-09-23.md) | google/ax — Google开源Agent编排运行时，解决Agent空转效率问题 | +2,305 ⭐ |
@@ -151,7 +152,10 @@ ai-product-radar/
             ├── 2026-09-19.md
             ├── 2026-09-21.md
             ├── 2026-09-22.md
-            └── 2026-09-23.md
+            ├── 2026-09-23.md
+            ├── 2026-09-24.md
+            ├── 2026-09-25.md
+            └── 2026-09-26.md
 ```
 
 ---
