@@ -54,6 +54,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-09-29 | [→ View](github-trending/2026/09/2026-09-29.md) | KKKKhazix/AIHOT — AI自动发现热点写日报框架 | +804 ⭐ |
 | 2026-09-28 | [→ View](github-trending/2026/09/2026-09-28.md) | vectorize-io/hindsight — Agent Memory That Learns | +4,520 ⭐ |
 | 2026-09-27 | [→ View](github-trending/2026/09/2026-09-27.md) | jev-chat/jev-chat-jarvis — Android LLM chat copilot for WeChat/QQ/Feishu/X | +~6,705 ⭐ |
 | 2026-09-26 | [→ View](github-trending/2026/09/2026-09-26.md) | paperclipai/paperclip — Open-source enterprise platform for managing AI agents at work | +2,109 ⭐ |
