@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-09-30 | [→ View](producthunt/2026/09/2026-09-30.md) | Pexo — Conversational AI platform that automates launch video creation end-to-end | 350 pts |
 | 2026-09-29 | [→ View](producthunt/2026/09/2026-09-29.md) | iFixAi — Independent auditing of AI agents to uncover misalignment | 342 pts |
 | 2026-09-28 | [→ View](producthunt/2026/09/2026-09-28.md) | MCP Connectors by Databox — Give your AI Analyst business context to explain performance and act | 377 pts |
 | 2026-09-27 | [→ View](producthunt/2026/09/2026-09-27.md) | GPT-6 Sol & Luna — OpenAI's frontier AI at half the API price, optimized for high-throughput agents | 278 pts |
@@ -137,7 +138,8 @@ ai-product-radar/
 │           ├── 2026-09-26.md
 │           ├── 2026-09-27.md
 │           ├── 2026-09-28.md
-│           └── 2026-09-29.md
+│           ├── 2026-09-29.md
+│           └── 2026-09-30.md
 └── github-trending/
     └── 2026/
         ├── 08/
