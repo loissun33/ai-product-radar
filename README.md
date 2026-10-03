@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-02 | [→ View](producthunt/2026/10/2026-10-02.md) | Pexo — AI video partner that produces pitch-perfect launch videos with precise, conversational control | 430 pts |
 | 2026-09-30 | [→ View](producthunt/2026/09/2026-09-30.md) | Pexo — Conversational AI platform that automates launch video creation end-to-end | 350 pts |
 | 2026-09-29 | [→ View](producthunt/2026/09/2026-09-29.md) | iFixAi — Independent auditing of AI agents to uncover misalignment | 342 pts |
 | 2026-09-28 | [→ View](producthunt/2026/09/2026-09-28.md) | MCP Connectors by Databox — Give your AI Analyst business context to explain performance and act | 377 pts |
@@ -110,37 +111,39 @@ ai-product-radar/
 │       │   ├── 2026-08-29.md
 │       │   ├── 2026-08-30.md
 │       │   └── 2026-08-31.md
-│       └── 09/
-│           ├── 2026-09-01.md
-│           ├── 2026-09-02.md
-│           ├── 2026-09-03.md
-│           ├── 2026-09-04.md
-│           ├── 2026-09-05.md
-│           ├── 2026-09-06.md
-│           ├── 2026-09-07.md
-│           ├── 2026-09-08.md
-│           ├── 2026-09-09.md
-│           ├── 2026-09-10.md
-│           ├── 2026-09-11.md
-│           ├── 2026-09-12.md
-│           ├── 2026-09-13.md
-│           ├── 2026-09-14.md
-│           ├── 2026-09-15.md
-│           ├── 2026-09-16.md
-│           ├── 2026-09-17.md
-│           ├── 2026-09-18.md
-│           ├── 2026-09-19.md
-│           ├── 2026-09-20.md
-│           ├── 2026-09-21.md
-│           ├── 2026-09-22.md
-│           ├── 2026-09-23.md
-│           ├── 2026-09-24.md
-│           ├── 2026-09-25.md
-│           ├── 2026-09-26.md
-│           ├── 2026-09-27.md
-│           ├── 2026-09-28.md
-│           ├── 2026-09-29.md
-│           └── 2026-09-30.md
+│       ├── 09/
+│       │   ├── 2026-09-01.md
+│       │   ├── 2026-09-02.md
+│       │   ├── 2026-09-03.md
+│       │   ├── 2026-09-04.md
+│       │   ├── 2026-09-05.md
+│       │   ├── 2026-09-06.md
+│       │   ├── 2026-09-07.md
+│       │   ├── 2026-09-08.md
+│       │   ├── 2026-09-09.md
+│       │   ├── 2026-09-10.md
+│       │   ├── 2026-09-11.md
+│       │   ├── 2026-09-12.md
+│       │   ├── 2026-09-13.md
+│       │   ├── 2026-09-14.md
+│       │   ├── 2026-09-15.md
+│       │   ├── 2026-09-16.md
+│       │   ├── 2026-09-17.md
+│       │   ├── 2026-09-18.md
+│       │   ├── 2026-09-19.md
+│       │   ├── 2026-09-20.md
+│       │   ├── 2026-09-21.md
+│       │   ├── 2026-09-22.md
+│       │   ├── 2026-09-23.md
+│       │   ├── 2026-09-24.md
+│       │   ├── 2026-09-25.md
+│       │   ├── 2026-09-26.md
+│       │   ├── 2026-09-27.md
+│       │   ├── 2026-09-28.md
+│       │   ├── 2026-09-29.md
+│       │   └── 2026-09-30.md
+│       └── 10/
+│           └── 2026-10-02.md
 └── github-trending/
     └── 2026/
         ├── 08/
