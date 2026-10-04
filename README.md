@@ -57,6 +57,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-03 | [→ View](github-trending/2026/10/2026-10-03.md) | DietrichGebert/ponytail — Behavioral shaping layer that makes AI coding agents write like the laziest senior dev | +1,435 ⭐ |
 | 2026-10-02 | [→ View](github-trending/2026/10/2026-10-02.md) | alibaba/open-code-review — Fast hybrid AI code review CLI, battle-tested at Alibaba scale | +3,286 ⭐ |
 | 2026-09-30 | [→ View](github-trending/2026/09/2026-09-30.md) | debpalash/VoiceStudio — 全本地语音 AI 平台，开源版 ElevenLabs 替代 | +4,000 ⭐ |
 | 2026-09-29 | [→ View](github-trending/2026/09/2026-09-29.md) | KKKKhazix/AIHOT — AI自动发现热点写日报框架 | +804 ⭐ |
