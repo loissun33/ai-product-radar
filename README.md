@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-03 | [→ View](producthunt/2026/10/2026-10-03.md) | ZooWork — AI agent delivery platform for FDEs and domain experts | 285 pts |
 | 2026-10-02 | [→ View](producthunt/2026/10/2026-10-02.md) | Pexo — AI video partner that produces pitch-perfect launch videos with precise, conversational control | 430 pts |
 | 2026-09-30 | [→ View](producthunt/2026/09/2026-09-30.md) | Pexo — Conversational AI platform that automates launch video creation end-to-end | 350 pts |
 | 2026-09-29 | [→ View](producthunt/2026/09/2026-09-29.md) | iFixAi — Independent auditing of AI agents to uncover misalignment | 342 pts |
@@ -144,7 +145,8 @@ ai-product-radar/
 │       │   ├── 2026-09-29.md
 │       │   └── 2026-09-30.md
 │       └── 10/
-│           └── 2026-10-02.md
+│           ├── 2026-10-02.md
+│           └── 2026-10-03.md
 └── github-trending/
     └── 2026/
         ├── 08/
