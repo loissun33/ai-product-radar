@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-05 | [→ View](producthunt/2026/10/2026-10-05.md) | Spira Maxima — AI video model that turns scripts into viral, social-ready videos | 316 pts |
 | 2026-10-04 | [→ View](producthunt/2026/10/2026-10-04.md) | CoreSpeed — Universal MCP endpoint connecting AI agents to 50+ business apps | 277 pts |
 | 2026-10-03 | [→ View](producthunt/2026/10/2026-10-03.md) | ZooWork — AI agent delivery platform for FDEs and domain experts | 285 pts |
 | 2026-10-02 | [→ View](producthunt/2026/10/2026-10-02.md) | Pexo — AI video partner that produces pitch-perfect launch videos with precise, conversational control | 430 pts |
@@ -149,7 +150,8 @@ ai-product-radar/
 │       └── 10/
 │           ├── 2026-10-02.md
 │           ├── 2026-10-03.md
-│           └── 2026-10-04.md
+│           ├── 2026-10-04.md
+│           └── 2026-10-05.md
 └── github-trending/
     └── 2026/
         ├── 08/
