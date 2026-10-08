@@ -61,6 +61,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-07 | [→ View](github-trending/2026/10/2026-10-07.md) | storytold/photocraft — Open-source Photoshop-level raster image editor, Rust-native | +~2,014 ⭐ |
 | 2026-10-06 | [→ View](github-trending/2026/10/2026-10-06.md) | tester-army/e2e — AI Agent-driven next-gen E2E testing framework, YC P26 | +~1,700 ⭐ |
 | 2026-10-04 | [→ View](github-trending/2026/10/2026-10-04.md) | Niko1221/Strata — One-click local LLM inference for Qwen3.8-Flash-Next on consumer hardware | +2,100 ⭐ |
 | 2026-10-03 | [→ View](github-trending/2026/10/2026-10-03.md) | DietrichGebert/ponytail — Behavioral shaping layer that makes AI coding agents write like the laziest senior dev | +1,435 ⭐ |
