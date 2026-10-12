@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-11 | [→ View](producthunt/2026/10/2026-10-11.md) | HireKey — Recruiter-informed AI copilot that maps your experience to job descriptions and coaches you through the full application | 247 pts |
 | 2026-10-10 | [→ View](producthunt/2026/10/2026-10-10.md) | Onepin — AI voiceover agent connecting 100+ TTS engines, pronounces names, prices, and dates correctly | 430 pts |
 | 2026-10-09 | [→ View](producthunt/2026/10/2026-10-09.md) | Zernio — Marketing infrastructure API for products and AI agents across 16 social platforms | 292 pts |
 | 2026-10-08 | [→ View](producthunt/2026/10/2026-10-08.md) | OpenSwarm — Open-source multi-agent platform that runs AI agent swarms in your existing workspace | 351 pts |
@@ -166,7 +167,8 @@ ai-product-radar/
 │           ├── 2026-10-07.md
 │           ├── 2026-10-08.md
 │           ├── 2026-10-09.md
-│           └── 2026-10-10.md
+│           ├── 2026-10-10.md
+│           └── 2026-10-11.md
 └── github-trending/
     └── 2026/
         ├── 08/
