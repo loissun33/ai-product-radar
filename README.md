@@ -66,6 +66,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-12 | [→ View](github-trending/2026/10/2026-10-12.md) | morluto/rea — AI-driven reverse engineering framework: agents map app behavior to native binaries | +34,100 ⭐ |
 | 2026-10-11 | [→ View](github-trending/2026/10/2026-10-11.md) | morluto/rea — AI Agent-powered reverse engineering, from app behavior to native binaries | +25,793 ⭐ |
 | 2026-10-10 | [→ View](github-trending/2026/10/2026-10-10.md) | storytold/photocraft — Open-source Photoshop reimagined in Rust, cross-platform native | +~2,200 ⭐ |
 | 2026-10-08 | [→ View](github-trending/2026/10/2026-10-08.md) | storytold/photocraft — Open-source Photoshop reimagined in Rust, cross-platform native | +~2,400 ⭐ |
@@ -210,7 +211,8 @@ ai-product-radar/
             ├── 2026-10-04.md
             ├── 2026-10-06.md
             ├── 2026-10-08.md
-            └── 2026-10-11.md
+            ├── 2026-10-11.md
+            └── 2026-10-12.md
 ```
 
 ---
