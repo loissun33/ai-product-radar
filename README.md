@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-14 | [→ View](producthunt/2026/10/2026-10-14.md) | Pancake — Vercel-style platform giving AI agents (Claude, Codex) a full GTM brain via one MCP connection | 476 pts |
 | 2026-10-13 | [→ View](producthunt/2026/10/2026-10-13.md) | Articos MCP — Test messaging against simulated buyers right inside Claude or ChatGPT | 309 pts |
 | 2026-10-12 | [→ View](producthunt/2026/10/2026-10-12.md) | Google EmbeddingGemma 2 — Google DeepMind's open multimodal embedding model | 268 pts |
 | 2026-10-11 | [→ View](producthunt/2026/10/2026-10-11.md) | HireKey — Recruiter-informed AI copilot that maps your experience to job descriptions and coaches you through the full application | 247 pts |
@@ -175,7 +176,8 @@ ai-product-radar/
 │           ├── 2026-10-10.md
 │           ├── 2026-10-11.md
 │           ├── 2026-10-12.md
-│           └── 2026-10-13.md
+│           ├── 2026-10-13.md
+│           └── 2026-10-14.md
 └── github-trending/
     └── 2026/
         ├── 08/
