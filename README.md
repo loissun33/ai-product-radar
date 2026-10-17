@@ -70,6 +70,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-16 | [→ View](github-trending/2026/10/2026-10-16.md) | morluto/rea — Agent-driven reverse engineering from app behavior to native binaries | +N/A ⭐ |
 | 2026-10-14 | [→ View](github-trending/2026/10/2026-10-14.md) | morluto/rea — Agent-driven reverse engineering from app behavior to native binaries | +48,900 ⭐ |
 | 2026-10-13 | [→ View](github-trending/2026/10/2026-10-13.md) | morluto/rea — AI-driven reverse engineering framework via MCP: agents map app behavior to native binaries | +54,679 ⭐ |
 | 2026-10-12 | [→ View](github-trending/2026/10/2026-10-12.md) | morluto/rea — AI-driven reverse engineering framework: agents map app behavior to native binaries | +34,100 ⭐ |
@@ -178,7 +179,8 @@ ai-product-radar/
 │           ├── 2026-10-11.md
 │           ├── 2026-10-12.md
 │           ├── 2026-10-13.md
-│           └── 2026-10-14.md
+│           ├── 2026-10-14.md
+│           └── 2026-10-16.md
     └── 2026-10-15.md
 └── github-trending/
     └── 2026/
@@ -225,7 +227,8 @@ ai-product-radar/
             ├── 2026-10-12.md
             ├── 2026-10-13.md
             ├── 2026-10-14.md
-            └── 2026-10-15.md
+            ├── 2026-10-15.md
+            └── 2026-10-16.md
 ```
 
 ---
