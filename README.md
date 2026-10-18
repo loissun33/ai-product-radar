@@ -6,7 +6,9 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
-| 2026-10-16 | [→ View](producthunt/2026/10/2026-10-16.md) | Jockey by TwelveLabs — AI video agent that searches and understands your entire video library via Claude & ChatGPT MCP | 365 pts |
+| 2026-10-17 | [→ View](github-trending/2026/10/2026-10-17.md) | morluto/rea — AI Agent-powered reverse engineering, from app behavior to native binaries | +291.7k ⭐ |
+| 2026-10-16 | [→ View](producthunt/2026/10/2026-10-17.md
+│       ├── 2026-10-16.md) | Jockey by TwelveLabs — AI video agent that searches and understands your entire video library via Claude & ChatGPT MCP | 365 pts |
 | 2026-10-15 | [→ View](producthunt/2026/10/2026-10-15.md) | Talanoa — Email client that turns threads into chat-style conversations with local AI | 267 pts |
 | 2026-10-14 | [→ View](producthunt/2026/10/2026-10-14.md) | Pancake — Vercel-style platform giving AI agents (Claude, Codex) a full GTM brain via one MCP connection | 476 pts |
 | 2026-10-13 | [→ View](producthunt/2026/10/2026-10-13.md) | Articos MCP — Test messaging against simulated buyers right inside Claude or ChatGPT | 309 pts |
@@ -71,6 +73,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-17 | [→ View](github-trending/2026/10/2026-10-17.md) | morluto/rea — AI Agent-powered reverse engineering, from app behavior to native binaries | +291.7k ⭐ |
 | 2026-10-16 | [→ View](github-trending/2026/10/2026-10-16.md) | morluto/rea — Agent-driven reverse engineering from app behavior to native binaries | +N/A ⭐ |
 | 2026-10-14 | [→ View](github-trending/2026/10/2026-10-14.md) | morluto/rea — Agent-driven reverse engineering from app behavior to native binaries | +48,900 ⭐ |
 | 2026-10-13 | [→ View](github-trending/2026/10/2026-10-13.md) | morluto/rea — AI-driven reverse engineering framework via MCP: agents map app behavior to native binaries | +54,679 ⭐ |
