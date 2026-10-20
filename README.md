@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-19 | [→ View](producthunt/2026/10/2026-10-19.md) | Beam.win — Run AI agents on one Mac and use its windows on another | 353 pts |
 | 2026-10-18 | [→ View](producthunt/2026/10/2026-10-18.md) | Inbox Zero — Open-source AI email client for Gmail & Outlook, a self-hostable Superhuman alternative | 279 pts |
 | 2026-10-17 | [→ View](producthunt/2026/10/2026-10-17.md) | NitroStack — Full-stack open-source platform to build, test, and deploy production-ready MCP servers | 291 pts |
 | 2026-10-16 | [→ View](producthunt/2026/10/2026-10-16.md) | Jockey by TwelveLabs — AI video agent that searches and understands your entire video library via Claude & ChatGPT MCP | 365 pts |
@@ -189,7 +190,8 @@ ai-product-radar/
 │           ├── 2026-10-15.md
 │           ├── 2026-10-16.md
 │           ├── 2026-10-17.md
-│           └── 2026-10-18.md
+│           ├── 2026-10-18.md
+│           └── 2026-10-19.md
 └── github-trending/
     └── 2026/
         ├── 08/
