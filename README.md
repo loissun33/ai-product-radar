@@ -73,6 +73,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-10-19 | [→ View](github-trending/2026/10/2026-10-19.md) | morluto/rea — AI Agent-powered reverse engineering from app behavior to native binaries | +14,800 ⭐ |
 | 2026-10-18 | [→ View](github-trending/2026/10/2026-10-18.md) | google-research/harness2 — Google AI harness optimization framework: auto-improves execution layer without model retraining | +N/A ⭐ |
 | 2026-10-17 | [→ View](github-trending/2026/10/2026-10-17.md) | morluto/rea — AI Agent-powered reverse engineering, from app behavior to native binaries | +291.7k ⭐ |
 | 2026-10-16 | [→ View](github-trending/2026/10/2026-10-16.md) | morluto/rea — Agent-driven reverse engineering from app behavior to native binaries | +N/A ⭐ |
@@ -235,7 +236,10 @@ ai-product-radar/
             ├── 2026-10-13.md
             ├── 2026-10-14.md
             ├── 2026-10-15.md
-            └── 2026-10-16.md
+            ├── 2026-10-16.md
+            ├── 2026-10-17.md
+            ├── 2026-10-18.md
+            └── 2026-10-19.md
 ```
 
 ---
