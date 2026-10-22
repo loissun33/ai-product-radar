@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-21 | [→ View](producthunt/2026/10/2026-10-21.md) | UseIt Studio — AI design agent that turns a one-sentence idea into manufacturable physical product files | 288 pts |
 | 2026-10-20 | [→ View](producthunt/2026/10/2026-10-20.md) | /dev/null — A developer-only social network built live in 48 hours | 456 pts |
 | 2026-10-19 | [→ View](producthunt/2026/10/2026-10-19.md) | Beam.win — Run AI agents on one Mac and use its windows on another | 353 pts |
 | 2026-10-18 | [→ View](producthunt/2026/10/2026-10-18.md) | Inbox Zero — Open-source AI email client for Gmail & Outlook, a self-hostable Superhuman alternative | 279 pts |
@@ -196,7 +197,7 @@ ai-product-radar/
 │           ├── 2026-10-18.md
 │           ├── 2026-10-19.md
 │           ├── 2026-10-20.md
-            └── 2026-10-21.md
+│           └── 2026-10-21.md
 └── github-trending/
     └── 2026/
         ├── 08/
