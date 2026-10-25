@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-24 | [→ View](producthunt/2026/10/2026-10-24.md) | zCAD AI — Browser-based AI CAD that generates real engineering parts, not just visual shapes | 243 pts |
 | 2026-10-23 | [→ View](producthunt/2026/10/2026-10-23.md) | Product Hunt Visual Launch Editor — Real-time visual editor so founders see their PH launch page as they build it | 391 pts |
 | 2026-10-22 | [→ View](producthunt/2026/10/2026-10-22.md) | DeepCell — AI deadline survival kit that unifies documents, spreadsheets & slides for office work | 333 pts |
 | 2026-10-21 | [→ View](producthunt/2026/10/2026-10-21.md) | UseIt Studio — AI design agent that turns a one-sentence idea into manufacturable physical product files | 288 pts |
@@ -204,8 +205,8 @@ ai-product-radar/
 │           ├── 2026-10-20.md
 │           ├── 2026-10-21.md
 │           ├── 2026-10-22.md
-│           └── 2026-10-23.md
-    └── 2026-10-24.md
+│           ├── 2026-10-23.md
+│           └── 2026-10-24.md
 └── github-trending/
     └── 2026/
         ├── 08/
