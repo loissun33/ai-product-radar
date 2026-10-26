@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-25 | [→ View](producthunt/2026/10/2026-10-25.md) | Moli by Lexmount — Rust-built production-ready headless browser for AI agents, 10× lighter than Chrome | 232 pts |
 | 2026-10-24 | [→ View](producthunt/2026/10/2026-10-24.md) | zCAD AI — Browser-based AI CAD that generates real engineering parts, not just visual shapes | 243 pts |
 | 2026-10-23 | [→ View](producthunt/2026/10/2026-10-23.md) | Product Hunt Visual Launch Editor — Real-time visual editor so founders see their PH launch page as they build it | 391 pts |
 | 2026-10-22 | [→ View](producthunt/2026/10/2026-10-22.md) | DeepCell — AI deadline survival kit that unifies documents, spreadsheets & slides for office work | 333 pts |
@@ -243,12 +244,15 @@ ai-product-radar/
         │   ├── 2026-09-29.md
         │   └── 2026-09-30.md
         └── 10/
-            ├── 2026-10-01.md
             ├── 2026-10-02.md
             ├── 2026-10-03.md
             ├── 2026-10-04.md
+            ├── 2026-10-05.md
             ├── 2026-10-06.md
+            ├── 2026-10-07.md
             ├── 2026-10-08.md
+            ├── 2026-10-09.md
+            ├── 2026-10-10.md
             ├── 2026-10-11.md
             ├── 2026-10-12.md
             ├── 2026-10-13.md
@@ -258,7 +262,12 @@ ai-product-radar/
             ├── 2026-10-17.md
             ├── 2026-10-18.md
             ├── 2026-10-19.md
-            └── 2026-10-20.md
+            ├── 2026-10-20.md
+            ├── 2026-10-21.md
+            ├── 2026-10-22.md
+            ├── 2026-10-23.md
+            ├── 2026-10-24.md
+            └── 2026-10-25.md
 ```
 
 ---
