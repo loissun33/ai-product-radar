@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-26 | [→ View](producthunt/2026/10/2026-10-26.md) | Strawberry 1.0 — AI browser with autonomous companions that automate your team's web tasks | 305 pts |
 | 2026-10-25 | [→ View](producthunt/2026/10/2026-10-25.md) | Moli by Lexmount — Rust-built production-ready headless browser for AI agents, 10× lighter than Chrome | 232 pts |
 | 2026-10-24 | [→ View](producthunt/2026/10/2026-10-24.md) | zCAD AI — Browser-based AI CAD that generates real engineering parts, not just visual shapes | 243 pts |
 | 2026-10-23 | [→ View](producthunt/2026/10/2026-10-23.md) | Product Hunt Visual Launch Editor — Real-time visual editor so founders see their PH launch page as they build it | 391 pts |
@@ -208,7 +209,9 @@ ai-product-radar/
 │           ├── 2026-10-21.md
 │           ├── 2026-10-22.md
 │           ├── 2026-10-23.md
-│           └── 2026-10-24.md
+│           ├── 2026-10-24.md
+│           ├── 2026-10-25.md
+│           └── 2026-10-26.md
 └── github-trending/
     └── 2026/
         ├── 08/
