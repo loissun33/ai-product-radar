@@ -287,4 +287,5 @@ ai-product-radar/
 
 | Date | Link | Top Repo | Stars |
 |------|------|----------|-------|
+| 2026-10-27 | [→ View](github-trending/2026/10/2026-10-27.md) | Nutlope/hallmark — AI design-quality linter with 62 CSS rules for Cursor/Copilot/Codex | +2,859 ⭐ |
 | 2026-10-26 | [→ View](github-trending/2026/10/2026-10-26.md) | Nutlope/hallmark — CSS design skill stopping AI tools from generating generic UIs | +2,235 ⭐ |
