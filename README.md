@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-28 | [→ View](producthunt/2026/10/2026-10-28.md) | Dedica — 125-point AI agent readiness checker that tests your website and gives coding-agent-ready fixes | 270 pts |
 | 2026-10-27 | [→ View](producthunt/2026/10/2026-10-27.md) | TheySaid 4.0 — AI-moderated user research that tests your product right where you build it | 306 pts |
 | 2026-10-26 | [→ View](producthunt/2026/10/2026-10-26.md) | Strawberry 1.0 — AI browser with autonomous companions that automate your team's web tasks | 305 pts |
 | 2026-10-25 | [→ View](producthunt/2026/10/2026-10-25.md) | Moli by Lexmount — Rust-built production-ready headless browser for AI agents, 10× lighter than Chrome | 232 pts |
@@ -213,7 +214,9 @@ ai-product-radar/
 │           ├── 2026-10-23.md
 │           ├── 2026-10-24.md
 │           ├── 2026-10-25.md
-│           └── 2026-10-26.md
+│           ├── 2026-10-26.md
+│           ├── 2026-10-27.md
+│           └── 2026-10-28.md
 └── github-trending/
     └── 2026/
         ├── 08/
