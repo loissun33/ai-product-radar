@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-10-30 | [→ View](producthunt/2026/10/2026-10-30.md) | Vaani Developer Platform — All-in-one voice AI agent platform for developers | 256 pts |
 | 2026-10-29 | [→ View](producthunt/2026/10/2026-10-29.md) | Empacer — Voice-first AI assistant that turns spoken tasks into social posts, replies & invoices for small business owners | 407 pts |
 | 2026-10-28 | [→ View](producthunt/2026/10/2026-10-28.md) | Dedica — 125-point AI agent readiness checker that tests your website and gives coding-agent-ready fixes | 270 pts |
 | 2026-10-27 | [→ View](producthunt/2026/10/2026-10-27.md) | TheySaid 4.0 — AI-moderated user research that tests your product right where you build it | 306 pts |
@@ -220,7 +221,8 @@ ai-product-radar/
 │           ├── 2026-10-26.md
 │           ├── 2026-10-27.md
 │           ├── 2026-10-28.md
-│           └── 2026-10-29.md
+│           ├── 2026-10-29.md
+│           └── 2026-10-30.md
 └── github-trending/
     └── 2026/
         ├── 08/
