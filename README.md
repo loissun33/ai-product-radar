@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-01 | [→ View](producthunt/2026/11/2026-11-01.md) | Screen Studio 4.0 — Mac screen recorder with AI-powered Glass Loupe zoom, transcript editing, and ProRes export | 193 pts |
 | 2026-10-31 | [→ View](producthunt/2026/10/2026-10-31.md) | SKI — Voice-first coding harness that lets you run and talk to multiple AI agents at once | 209 pts |
 | 2026-10-30 | [→ View](producthunt/2026/10/2026-10-30.md) | Vaani Developer Platform — All-in-one voice AI agent platform for developers | 256 pts |
 | 2026-10-29 | [→ View](producthunt/2026/10/2026-10-29.md) | Empacer — Voice-first AI assistant that turns spoken tasks into social posts, replies & invoices for small business owners | 407 pts |
@@ -195,37 +196,39 @@ ai-product-radar/
 │       │   ├── 2026-09-28.md
 │       │   ├── 2026-09-29.md
 │       │   └── 2026-09-30.md
-│       └── 10/
-│           ├── 2026-10-02.md
-│           ├── 2026-10-03.md
-│           ├── 2026-10-04.md
-│           ├── 2026-10-05.md
-│           ├── 2026-10-06.md
-│           ├── 2026-10-07.md
-│           ├── 2026-10-08.md
-│           ├── 2026-10-09.md
-│           ├── 2026-10-10.md
-│           ├── 2026-10-11.md
-│           ├── 2026-10-12.md
-│           ├── 2026-10-13.md
-│           ├── 2026-10-14.md
-│           ├── 2026-10-15.md
-│           ├── 2026-10-16.md
-│           ├── 2026-10-17.md
-│           ├── 2026-10-18.md
-│           ├── 2026-10-19.md
-│           ├── 2026-10-20.md
-│           ├── 2026-10-21.md
-│           ├── 2026-10-22.md
-│           ├── 2026-10-23.md
-│           ├── 2026-10-24.md
-│           ├── 2026-10-25.md
-│           ├── 2026-10-26.md
-│           ├── 2026-10-27.md
-│           ├── 2026-10-28.md
-│           ├── 2026-10-29.md
-│           ├── 2026-10-30.md
-│           └── 2026-10-31.md
+│       ├── 10/
+│       │   ├── 2026-10-02.md
+│       │   ├── 2026-10-03.md
+│       │   ├── 2026-10-04.md
+│       │   ├── 2026-10-05.md
+│       │   ├── 2026-10-06.md
+│       │   ├── 2026-10-07.md
+│       │   ├── 2026-10-08.md
+│       │   ├── 2026-10-09.md
+│       │   ├── 2026-10-10.md
+│       │   ├── 2026-10-11.md
+│       │   ├── 2026-10-12.md
+│       │   ├── 2026-10-13.md
+│       │   ├── 2026-10-14.md
+│       │   ├── 2026-10-15.md
+│       │   ├── 2026-10-16.md
+│       │   ├── 2026-10-17.md
+│       │   ├── 2026-10-18.md
+│       │   ├── 2026-10-19.md
+│       │   ├── 2026-10-20.md
+│       │   ├── 2026-10-21.md
+│       │   ├── 2026-10-22.md
+│       │   ├── 2026-10-23.md
+│       │   ├── 2026-10-24.md
+│       │   ├── 2026-10-25.md
+│       │   ├── 2026-10-26.md
+│       │   ├── 2026-10-27.md
+│       │   ├── 2026-10-28.md
+│       │   ├── 2026-10-29.md
+│       │   ├── 2026-10-30.md
+│       │   └── 2026-10-31.md
+│       └── 11/
+│           └── 2026-11-01.md
 └── github-trending/
     └── 2026/
         ├── 08/
