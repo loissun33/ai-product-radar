@@ -87,6 +87,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-02 | [→ View](github-trending/2026/11/2026-11-02.md) | vercel-labs/agent-desktop — Desktop control layer for AI agents via OS accessibility tree | +2,243 ⭐ |
 | 2026-10-31 | [→ View](github-trending/2026/10/2026-10-31.md) | pbakaus/impeccable — Design vocabulary for coding agents, polish/critique/audit UI before release | +2,300 ⭐ |
 | 2026-10-30 | [→ View](github-trending/2026/10/2026-10-30.md) | morluto/rea — AI Agent-driven reverse engineering from app behavior to native binaries | +1,900 ⭐ |
 | 2026-10-29 | [→ View](github-trending/2026/10/2026-10-29.md) | JetBrains/thinkrail — Lightweight agentic IDE for pi coding agent, each agent gets its own git worktree | +1,068 ⭐ |
