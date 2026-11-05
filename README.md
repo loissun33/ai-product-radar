@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-03 | [→ View](producthunt/2026/11/2026-11-03.md) | AgentKit by Scalekit — MCP gateway connecting production AI agents to 600+ connectors securely | 404 pts |
 | 2026-11-02 | [→ View](producthunt/2026/11/2026-11-02.md) | beacon.sh — Open-source self-improving memory layer for AI coding agents | 437 pts |
 | 2026-11-01 | [→ View](producthunt/2026/11/2026-11-01.md) | Screen Studio 4.0 — Mac screen recorder with AI Glass Loupe zoom, Camera Cutout, transcript editing & 6.5× AI upscaler | 408 pts |
 | 2026-10-31 | [→ View](producthunt/2026/10/2026-10-31.md) | SKI — Voice-first coding harness that lets you run and talk to multiple AI agents at once | 209 pts |
@@ -233,7 +234,8 @@ ai-product-radar/
 │       │   └── 2026-10-31.md
 │       └── 11/
 │           ├── 2026-11-01.md
-│           └── 2026-11-02.md
+│           ├── 2026-11-02.md
+│           └── 2026-11-03.md
 └── github-trending/
     └── 2026/
         ├── 08/
