@@ -297,6 +297,9 @@ ai-product-radar/
             ├── 2026-10-25.md
             ├── 2026-10-26.md
             └── 2026-10-27.md
+        └── 11/
+            ├── 2026-11-01.md
+            └── 2026-11-05.md
 ```
 
 ---
@@ -313,6 +316,7 @@ ai-product-radar/
 
 | Date | Link | Top Repo | Stars |
 |------|------|----------|-------|
+| 2026-11-05 | [→ View](github-trending/2026/11/2026-11-05.md) | NVIDIA/auto-ontology — Python framework building semantic ontology layer from enterprise metadata for verifiable LLM queries | +2,050 ⭐ |
 | 2026-11-01 | [→ View](github-trending/2026/11/2026-11-01.md) | Graphify-Labs/graphify — Converts codebases into queryable knowledge graphs | +2,008 ⭐ |
 | 2026-10-27 | [→ View](github-trending/2026/10/2026-10-27.md) | Nutlope/hallmark — AI design-quality linter with 62 CSS rules for Cursor/Copilot/Codex | +2,859 ⭐ |
 | 2026-10-26 | [→ View](github-trending/2026/10/2026-10-26.md) | Nutlope/hallmark — CSS design skill stopping AI tools from generating generic UIs | +2,235 ⭐ |
