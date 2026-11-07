@@ -90,6 +90,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-06 | [→ View](github-trending/2026/11/2026-11-06.md) | NVIDIA/auto-ontology — Enterprise semantic ontology framework for LLM agents, reduces hallucinations in SQL queries | +2,679 ⭐ |
 | 2026-11-04 | [→ View](github-trending/2026/11/2026-11-04.md) | storytold/craft-anything — AI-powered study-build-refine loop in Rust for understanding and recreating any software | +3,328 ⭐ |
 | 2026-11-03 | [→ View](github-trending/2026/11/2026-11-03.md) | pingdotgg/t3code — TypeScript full-stack starter integrating Next.js, tRPC, Prisma, Tailwind CSS | +N/A (snapshot/provisional) ⭐ |
 | 2026-11-02 | [→ View](github-trending/2026/11/2026-11-02.md) | vercel-labs/agent-desktop — Desktop control layer for AI agents via OS accessibility tree | +2,243 ⭐ |
@@ -318,6 +319,7 @@ ai-product-radar/
 
 | Date | Link | Top Repo | Stars |
 |------|------|----------|-------|
+| 2026-11-06 | [→ View](github-trending/2026/11/2026-11-06.md) | NVIDIA/auto-ontology — Enterprise semantic ontology framework for LLM agents, reduces hallucinations in SQL queries | +2,679 ⭐ |
 | 2026-11-05 | [→ View](github-trending/2026/11/2026-11-05.md) | NVIDIA/auto-ontology — Python framework building semantic ontology layer from enterprise metadata for verifiable LLM queries | +2,050 ⭐ |
 | 2026-11-01 | [→ View](github-trending/2026/11/2026-11-01.md) | Graphify-Labs/graphify — Converts codebases into queryable knowledge graphs | +2,008 ⭐ |
 | 2026-10-27 | [→ View](github-trending/2026/10/2026-10-27.md) | Nutlope/hallmark — AI design-quality linter with 62 CSS rules for Cursor/Copilot/Codex | +2,859 ⭐ |
