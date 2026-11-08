@@ -90,6 +90,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-07 | [→ View](github-trending/2026/11/2026-11-07.md) | zed-industries/zed — High-performance Rust collaborative code editor with real-time multiplayer editing | +306 ⭐ |
 | 2026-11-06 | [→ View](github-trending/2026/11/2026-11-06.md) | NVIDIA/auto-ontology — Enterprise semantic ontology framework for LLM agents, reduces hallucinations in SQL queries | +2,679 ⭐ |
 | 2026-11-04 | [→ View](github-trending/2026/11/2026-11-04.md) | storytold/craft-anything — AI-powered study-build-refine loop in Rust for understanding and recreating any software | +3,328 ⭐ |
 | 2026-11-03 | [→ View](github-trending/2026/11/2026-11-03.md) | pingdotgg/t3code — TypeScript full-stack starter integrating Next.js, tRPC, Prisma, Tailwind CSS | +N/A (snapshot/provisional) ⭐ |
