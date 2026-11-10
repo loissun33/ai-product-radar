@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-09 | [→ View](producthunt/2026/11/2026-11-09.md) | Databox CLI — Your agentic analytics platform in the terminal | 183 pts |
 | 2026-11-07 | [→ View](producthunt/2026/11/2026-11-07.md) | ChatGPT Images 2.6 — Create, edit, and animate images with AI | 290 pts |
 | 2026-11-06 | [→ View](producthunt/2026/11/2026-11-06.md) | Tobira Site Agent — Turn your website into an AI agent that sells to AI agents | 379 pts |
 | 2026-11-05 | [→ View](producthunt/2026/11/2026-11-05.md) | Glasshand — Real iPhones and Macs rented to AI agents — no emulators, no VMs | 377 pts |
