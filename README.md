@@ -92,6 +92,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-09 | [→ View](github-trending/2026/11/2026-11-09.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,373 ⭐ |
 | 2026-11-08 | [→ View](github-trending/2026/11/2026-11-08.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,372 ⭐ |
 | 2026-11-07 | [→ View](github-trending/2026/11/2026-11-07.md) | zed-industries/zed — High-performance Rust collaborative code editor with real-time multiplayer editing | +306 ⭐ |
 | 2026-11-06 | [→ View](github-trending/2026/11/2026-11-06.md) | NVIDIA/auto-ontology — Enterprise semantic ontology framework for LLM agents, reduces hallucinations in SQL queries | +2,679 ⭐ |
@@ -245,7 +246,8 @@ ai-product-radar/
 │           ├── 2026-11-05.md
 │           ├── 2026-11-06.md
 │           ├── 2026-11-07.md
-│           └── 2026-11-08.md
+│           ├── 2026-11-08.md
+│           └── 2026-11-09.md
 └── github-trending/
     └── 2026/
         ├── 08/
