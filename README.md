@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-11 | [→ View](producthunt/2026/11/2026-11-11.md) | ScroogeFrog AI — AI ad fraud detection that protects your marketing budget | 297 pts |
 | 2026-11-09 | [→ View](producthunt/2026/11/2026-11-09.md) | Product Hunt MCP — The community you trust in the assistant you use | 437 pts |
 | 2026-11-07 | [→ View](producthunt/2026/11/2026-11-07.md) | ChatGPT Images 2.6 — Create, edit, and animate images with AI | 290 pts |
 | 2026-11-06 | [→ View](producthunt/2026/11/2026-11-06.md) | Tobira Site Agent — Turn your website into an AI agent that sells to AI agents | 379 pts |
@@ -250,7 +251,8 @@ ai-product-radar/
 │           ├── 2026-11-06.md
 │           ├── 2026-11-07.md
 │           ├── 2026-11-08.md
-│           └── 2026-11-09.md
+│           ├── 2026-11-09.md
+│           └── 2026-11-11.md
 └── github-trending/
     └── 2026/
         ├── 08/
