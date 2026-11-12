@@ -93,6 +93,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-11 | [→ View](github-trending/2026/11/2026-11-11.md) | Kianuni/Erosion-CN — iOS/iPadOS MobileGestalt config toolkit with Chinese UI and anti-brick protection | +1532 ⭐ |
 | 2026-11-10 | [→ View](github-trending/2026/11/2026-11-10.md) | anthropics/skills — Anthropic's official Agent Skills library for reusable Claude workflows | +1,038 ⭐ |
 | 2026-11-09 | [→ View](github-trending/2026/11/2026-11-09.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,373 ⭐ |
 | 2026-11-08 | [→ View](github-trending/2026/11/2026-11-08.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,372 ⭐ |
