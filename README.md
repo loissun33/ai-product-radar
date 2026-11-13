@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-12 | [→ View](producthunt/2026/11/2026-11-12.md) | Alsona — AI agents that turn buying signals into booked sales calls | 501 pts |
 | 2026-11-11 | [→ View](producthunt/2026/11/2026-11-11.md) | ScroogeFrog AI — AI ad fraud detection that protects your marketing budget | 297 pts |
 | 2026-11-09 | [→ View](producthunt/2026/11/2026-11-09.md) | Product Hunt MCP — The community you trust in the assistant you use | 437 pts |
 | 2026-11-07 | [→ View](producthunt/2026/11/2026-11-07.md) | ChatGPT Images 2.6 — Create, edit, and animate images with AI | 290 pts |
@@ -252,7 +253,8 @@ ai-product-radar/
 │           ├── 2026-11-07.md
 │           ├── 2026-11-08.md
 │           ├── 2026-11-09.md
-│           └── 2026-11-11.md
+│           ├── 2026-11-11.md
+│           └── 2026-11-12.md
 └── github-trending/
     └── 2026/
         ├── 08/
