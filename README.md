@@ -95,6 +95,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-13 | [→ View](github-trending/2026/11/2026-11-13.md) | aws/aws-emulator — 官方 Rust 本地 AWS API 模拟器，LocalStack 替代品 | +3,400 ⭐ |
 | 2026-11-11 | [→ View](github-trending/2026/11/2026-11-11.md) | Kianuni/Erosion-CN — iOS/iPadOS MobileGestalt config toolkit with Chinese UI and anti-brick protection | +1532 ⭐ |
 | 2026-11-10 | [→ View](github-trending/2026/11/2026-11-10.md) | anthropics/skills — Anthropic's official Agent Skills library for reusable Claude workflows | +1,038 ⭐ |
 | 2026-11-09 | [→ View](github-trending/2026/11/2026-11-09.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,373 ⭐ |
@@ -318,7 +319,17 @@ ai-product-radar/
             └── 2026-10-27.md
         └── 11/
             ├── 2026-11-01.md
-            └── 2026-11-05.md
+            ├── 2026-11-02.md
+            ├── 2026-11-03.md
+            ├── 2026-11-04.md
+            ├── 2026-11-05.md
+            ├── 2026-11-06.md
+            ├── 2026-11-07.md
+            ├── 2026-11-08.md
+            ├── 2026-11-09.md
+            ├── 2026-11-10.md
+            ├── 2026-11-11.md
+            └── 2026-11-13.md
 ```
 
 ---
@@ -335,6 +346,7 @@ ai-product-radar/
 
 | Date | Link | Top Repo | Stars |
 |------|------|----------|-------|
+| 2026-11-13 | [→ View](github-trending/2026/11/2026-11-13.md) | aws/aws-emulator — Official Rust local AWS API emulator, LocalStack alternative | +3,400 ⭐ |
 | 2026-11-08 | [→ View](github-trending/2026/11/2026-11-08.md) | sherlock-project/sherlock — Social media username hunter across 400+ networks | +2,372 ⭐ |
 | 2026-11-06 | [→ View](github-trending/2026/11/2026-11-06.md) | NVIDIA/auto-ontology — Enterprise semantic ontology framework for LLM agents, reduces hallucinations in SQL queries | +2,679 ⭐ |
 | 2026-11-05 | [→ View](github-trending/2026/11/2026-11-05.md) | NVIDIA/auto-ontology — Python framework building semantic ontology layer from enterprise metadata for verifiable LLM queries | +2,050 ⭐ |
