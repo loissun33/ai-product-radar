@@ -6,6 +6,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | Date | Link | #1 Product | Votes |
 |------|------|------------|-------|
+| 2026-11-13 | [→ View](producthunt/2026/11/2026-11-13.md) | Templify AI — Powerful content editor for people who aren't editors | 391 pts |
 | 2026-11-12 | [→ View](producthunt/2026/11/2026-11-12.md) | Plurai Simulation — AI simulation platform that makes your enterprise agent improve on every run | 409 pts |
 | 2026-11-11 | [→ View](producthunt/2026/11/2026-11-11.md) | ScroogeFrog AI — AI ad fraud detection that protects your marketing budget | 297 pts |
 | 2026-11-09 | [→ View](producthunt/2026/11/2026-11-09.md) | Product Hunt MCP — The community you trust in the assistant you use | 437 pts |
@@ -254,7 +255,8 @@ ai-product-radar/
 │           ├── 2026-11-07.md
 │           ├── 2026-11-09.md
 │           ├── 2026-11-11.md
-│           └── 2026-11-12.md
+│           ├── 2026-11-12.md
+│           └── 2026-11-13.md
 └── github-trending/
     └── 2026/
         ├── 08/
