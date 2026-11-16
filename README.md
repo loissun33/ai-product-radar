@@ -96,6 +96,7 @@ EPIC Growth Agent 每日自动追踪 GitHub Trending 与 Product Hunt，聚焦�
 
 | 日期 | 链接 | Top 项目 | 今日 Stars |
 |------|------|---------|----------|
+| 2026-11-15 | [→ View](github-trending/2026/11/2026-11-15.md) | GoogleChrome/modern-web-guidance — CLI tool supplying coding agents with web best practices | +4,200 ⭐ |
 | 2026-11-13 | [→ View](github-trending/2026/11/2026-11-13.md) | aws/aws-emulator — 官方 Rust 本地 AWS API 模拟器，LocalStack 替代品 | +3,400 ⭐ |
 | 2026-11-11 | [→ View](github-trending/2026/11/2026-11-11.md) | Kianuni/Erosion-CN — iOS/iPadOS MobileGestalt config toolkit with Chinese UI and anti-brick protection | +1532 ⭐ |
 | 2026-11-10 | [→ View](github-trending/2026/11/2026-11-10.md) | anthropics/skills — Anthropic's official Agent Skills library for reusable Claude workflows | +1,038 ⭐ |
